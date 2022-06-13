@@ -3,7 +3,7 @@
     {
       "name": "Hello world",
       "setup": "g++ -o main.exe main.c",
-      "run": "./main",
+      "run": "main",
       "input": "",
       "output": "Hello world",
       "comparison": "included",
