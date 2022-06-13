@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Hello world",
-      "setup": "",
-      "run": "gcc main.c",
+      "setup": "gcc -o main.exe main.c",
+      "run": "main",
       "input": "",
       "output": "Hello world",
       "comparison": "included",
